@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">伪装短信</string>
+    <string name="app_name">伪造大师</string>
     <string name="action_about">关于</string>
 
     <string name="welcome_head_01">随意伪造短信</string>
     <string name="welcome_content_01">YY无妨，开心就好</string>
     <string name="welcome_head_02">还能伪造通话</string>
     <string name="welcome_content_02">小鲜肉什么的根本招架不住啊</string>
-    <string name="welcome_head_03">快进入伪装短信吧</string>
+    <string name="welcome_head_03">快进入伪装大师吧</string>
     <string name="welcome_content_03">更多好玩，自由随心</string>
 
     <string name="splash_content">你开心就好</string>
@@ -17,5 +17,7 @@
     <string name="example_021">王思聪\n10:00</string>
     <string name="example_022">宁泽涛\n12:10</string>
     <string name="example_023">未接通</string>
+
+    <string name="press_again_exit_app">再按一次退出程序</string>
 
 </resources>

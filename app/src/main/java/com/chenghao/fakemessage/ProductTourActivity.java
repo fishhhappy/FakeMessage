@@ -282,17 +282,17 @@ public class ProductTourActivity extends AppCompatActivity {
                 }
 
                 if (welcomeImage01 != null) {
-                    ViewHelper.setTranslationX(welcomeImage01, (float) (pageWidth / 2 * position));
+//                    ViewHelper.setTranslationX(welcomeImage01, (float) (pageWidth / 2 * position));
                     ViewHelper.setAlpha(welcomeImage01, 1.0f - Math.abs(position));
                 }
 
                 if (welcomeImage02 != null) {
-                    ViewHelper.setTranslationX(welcomeImage02, (float) (pageWidth / 2 * position));
+//                    ViewHelper.setTranslationX(welcomeImage02, (float) (pageWidth / 2 * position));
                     ViewHelper.setAlpha(welcomeImage02, 1.0f - Math.abs(position));
                 }
 
                 if (welcomeImage03 != null) {
-                    ViewHelper.setTranslationX(welcomeImage03, (float) (pageWidth / 2 * position));
+//                    ViewHelper.setTranslationX(welcomeImage03, (float) (pageWidth / 2 * position));
                     ViewHelper.setAlpha(welcomeImage03, 1.0f - Math.abs(position));
                 }
             }

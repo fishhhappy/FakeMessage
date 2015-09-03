@@ -7,4 +7,8 @@
     <dimen name="welcome_content">16.0sp</dimen>
     <dimen name="welcome_content_min_height">96.0dip</dimen>
     <dimen name="splash_heading">28.0sp</dimen>
+
+    <dimen name="ten">10dp</dimen>
+
+    <dimen name="elevation_ten">@dimen/ten</dimen>
 </resources>

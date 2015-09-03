@@ -3,7 +3,8 @@
 
     <color name="primary">#3F51B5</color>
     <color name="primary_dark">#303F9F</color>
-    <color name="accent">#7C4DFF</color>
+    <color name="accent">#4CAF50</color>
+    <color name="accent_pressed">#388E3C</color>
     <color name="text_primary">#FFFFFF</color>
     <color name="textColor">#212121</color>
     <color name="hintColor">#727272</color>
@@ -12,6 +13,19 @@
     <color name="layout_selected">#bbbbbb</color>
 
     <color name="splash">#8BC34A</color>
+
+    <color name="tab_bgcolor">#eeeeee</color>
+    <color name="window_background">#FFF5F5F5</color>
+
+    <color name="white">#fafafa</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="half_black">#808080</color>
+    <color name="black_semi_transparent">#B2000000</color>
+
+    <color name="floating_color_1">#03A9F4</color>
+    <color name="floating_color_dark_1">#0288D1</color>
+    <color name="floating_color_2">@color/primary</color>
+    <color name="floating_color_dark_2">@color/primary_dark</color>
 
 
 </resources>
